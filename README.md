@@ -1,7 +1,7 @@
 # Biclustering
 
 ## Description
-This work accomplishes a CC biclustering analysis with real expression data from differentially expressed genes using [**biclust**](biclust function - RDocumentation) 
+This work accomplishes a CC biclustering analysis with real expression data from differentially expressed genes using **biclust** 
 R package.
 
 ## Motivation
