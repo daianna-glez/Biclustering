@@ -1,12 +1,10 @@
-# Biclustering
+# Biclustering analysis
 
 ## Description
-This work accomplishes a CC biclustering analysis with real expression data from differentially expressed genes using **biclust** 
-R package.
+This work was done as part of an undergraduate project at LCG - UNAM. It performs CC biclustering on real expression data from differentially expressed genes using *biclust* R package.
 
 ## Motivation
-Biclustering has been proved to be efficient discovering co-expressed and co-regulated genes, however, whether it is a good approach to obtain clusters of DE genes with 
-samples where they show similar expression values with respect to the others, remains challenging.
+Biclustering has been proved efficient at discovering sets of co-expressed and co-regulated genes, however, its performance on similarly expressed genes it's left to be tested.
 
 ## System requirements
 No system requirements needed.
@@ -19,5 +17,5 @@ Install RStudio version 1.4 or newer.
 To consult license see [LICENSE](LICENSE) 
 
 ## Contact
-Author: Daianna González Padilla 
+Author: Daianna Gonzalez-Padilla 
 E-mail: daianna@lcg.unam.mx
